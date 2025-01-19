@@ -1,0 +1,2 @@
+pc p01 1234
+notebook p02 5412
