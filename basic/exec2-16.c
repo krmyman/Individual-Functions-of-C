@@ -9,7 +9,7 @@ int main()
 	fr = iz / iy; printf("iz(2)/iy(3) = %1.5f\n", fr);
 	ir = ix / fy; printf("ix(4)/fy(3.0f) = %d\n", ir);
 	fr = ix / fy; printf("ix(4)/fy(3.0f) = %1.5f\n", fr);
-	// ¥H¤U¨â¦æ±Ô­z»¡©ú¤F¯BÂI¼Æªº¹w³]¸ê®Æ«¬§O
+	// ä»¥ä¸‹å…©è¡Œæ•˜è¿°èªªæ˜äº†æµ®é»æ•¸çš„é è¨­è³‡æ–™å‹åˆ¥
 	printf("1.0f/3.0f = %1.12f\n", 1.0f / 3.0f); //float
 	printf("1.0/3.0f = %1.12f\n", 1.0 / 3.0f);	// double
 	fr = (float)iz / iy;
